@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys
+END
+sys_role.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_role.jsp
+END
+index_top.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/index_top.jsp
+END
+sys_Student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_Student.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/login.jsp
+END
+sys_role_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_role_add.jsp
+END
+index_menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/index_menu.jsp
+END
+sys_course.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_course.jsp
+END
+sys_course_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_course_add.jsp
+END
+sys_menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_menu.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/index.jsp
+END
+sys_menu_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_menu_add.jsp
+END
+sys_role_menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_role_menu.jsp
+END
+sys_user.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_user.jsp
+END
+sys_user_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/sys_user_add.jsp
+END
+enroll.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/webapp/WEB-INF/views/sys/sys/enroll.jsp
+END

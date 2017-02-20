@@ -1,0 +1,63 @@
+#coding:utf-8
+import cv2
+from threading import Timer
+import time
+import requests
+import re
+import datetime
+import os
+user = {'username':'admin', 'password':'admin'}
+
+s = requests.Session()
+r = s.post('http://localhost:8080/xuijee/admin/login',data = user)
+p=s.post('http://localhost:8080/xuijee/admin/sysDemo/findUserCourseTableTime')
+arr = re.split('"course_time_id":|,"course_id":|,"start_time":"|","end_time":"|"',p.content)
+
+del arr[0]
+del arr[len(arr)-1] 
+while "},{" in arr:
+    arr.remove("},{")
+f=0
+coursenum=''
+for i in range(len(arr)):
+    if f%4==2:
+        time1 = time.strptime(arr[i], "%Y-%m-%d %H:%M:%S")
+        time2 = time.strptime(arr[i+1], "%Y-%m-%d %H:%M:%S")
+        timeStamp1 = int(time.mktime(time1))
+        timeStamp2 = int(time.mktime(time2))
+        
+        if timeStamp1< time.time() <timeStamp2: 
+            coursenum=arr[i-2]
+            print timeStamp1
+            print timeStamp2
+            print time.time()
+    print i,arr[i]
+    f=f+1
+if coursenum=='':
+    print 'no'
+    os._exit()  
+print coursenum
+print arr
+print p.content
+print p.content
+
+
+
+p=0
+
+my_str1='' 
+capture = cv2.VideoCapture(0)
+_, frame = capture.read()
+
+
+
+while True:
+    p+=1
+    my_str1 =  coursenum+str(p)
+    cv2.imwrite(my_str1+'.jpg', frame)
+    url = 'http://localhost:8080/xuijee/admin/sysDemo/upload'
+    files = {'file': open(my_str1+'.jpg', 'rb')}
+    s.post(url, files=files)
+    time.sleep(10);
+    _, frame = capture.read()
+    

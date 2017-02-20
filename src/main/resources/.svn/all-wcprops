@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/resources
+END
+spring-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/resources/spring-mvc.xml
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/resources/logback.xml
+END
+spring-shiro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/resources/spring-shiro.xml
+END
+spring-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/resources/spring-config.xml
+END
+ehcache-shiro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/resources/ehcache-shiro.xml
+END
+logback-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/resources/logback-test.xml
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TeachingFeedbackNew/!svn/ver/12/trunk/xuijee/src/main/resources/config.properties
+END

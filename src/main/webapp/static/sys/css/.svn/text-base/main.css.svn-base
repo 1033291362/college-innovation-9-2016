@@ -1,0 +1,43 @@
+.main_body{
+	padding:15px;
+}
+.main_title{
+	min-height: 40px;
+	margin-bottom: 15px;
+}
+.main_title_border{
+    border-bottom: 1px solid #DDD;
+}
+.main_title h1, .main_title h2, .main_title h3, .main_title h4, .main_title h5, .main_title h6 {
+    display: inline-block;
+    text-indent: 8px;
+    border-left: 2px solid #88B7E0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 8px;
+    font-weight: 500;
+}
+.main_title h1{font-size: 36px;}
+.main_title h2{font-size: 30px;}
+.main_title h3{font-size: 24px;}
+.main_title h4{font-size: 18px;}
+.main_title h5{font-size: 14px;}
+.main_title h6{font-size: 12px;}
+.box_right{
+	float: right;
+}
+.topbar{
+	padding: 5px 10px;
+}
+.search_box{
+	margin-bottom: 15px;
+}
+.search_box .xcombo{
+	width:120px;
+	float: left;
+}
+.search_box .input{
+	width: auto;
+	margin-left:-1px;
+	float: left;
+}

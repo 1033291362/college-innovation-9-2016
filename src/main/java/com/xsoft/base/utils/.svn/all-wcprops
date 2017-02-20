@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/DateUtil.java
+END
+SqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/SqlUtil.java
+END
+NameUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/NameUtil.java
+END
+ToolsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/ToolsUtil.java
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/JsonUtil.java
+END
+DigestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/DigestUtil.java
+END
+PropertiesLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/PropertiesLoader.java
+END
+SpringContextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/SpringContextUtil.java
+END
+ShiroUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/ShiroUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/StringUtil.java
+END
+SqlContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/base/utils/SqlContext.java
+END

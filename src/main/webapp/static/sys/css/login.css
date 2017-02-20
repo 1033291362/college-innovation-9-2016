@@ -1,0 +1,98 @@
+body,div,html,input,lable {
+	margin: 0;
+	padding: 0
+}
+body {
+	background: #09c
+}
+.login_box {
+	width: 100%;
+	height: 100%
+}
+.login_box .login_panel {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	font-size:14px;
+	margin-top: -200px;
+	margin-left: -150px;
+	width: 312px;
+	height: 320px;
+	background: rgba(0,0,0,.5);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#66000000', EndColorStr='#66000000')
+}
+.login_box .title {
+	height: 30px;
+	text-align: center;
+	font: 18px/28px tahoma,arial,"Hiragino Sans GB","Microsoft Yahei",\5b8b\4f53;
+	font-size: 20px;
+	line-height: 30px
+}
+.login_box .xgroup {
+	margin-top: 20px;
+	margin-bottom: 0;
+	color: #fff
+}
+.login_box .xgroup:after {
+	clear: both;
+	display: block;
+	visibility: hidden;
+	height: 0;
+	content: ""
+}
+.login_box .g1 {
+	margin: 0;
+	margin-left: 36px;
+	padding: 0;
+	width: 40px;
+	height: 40px;
+	background: #ccc
+}
+.login_box .g2 {
+	background: #fff
+}
+.login_box .name{
+	background: url("../img/name.png") center no-repeat #ccc;
+}
+.login_box .pass{
+	background: url("../img/pass.png") center no-repeat #ccc;
+}
+.xform{
+	padding: 0;
+}
+.xform input[type=password],.xform input[type=text] {
+	margin-left: 10px;
+	padding: 0;
+	width: 190px;
+	height: 40px;
+	border: 0;
+	line-height: 40px
+}
+.xform input:focus {
+	border: none
+}
+.btn_box {
+	margin-top: 36px
+}
+.xbtn {
+	margin-left: 36px;
+	padding: 10px;
+	width: 220px
+}
+.xloading {
+	padding-right: 0;
+	padding-left: 20px;
+	border-color: #bbb;
+	background-position-x: 38%
+}
+.xform .error {
+	position: absolute;
+	top: 15px;
+	right: 36px;
+	left: 36px;
+	height: 30px;
+	background: #fff;
+	color:#FF5722;
+	text-align: center;
+	line-height: 30px
+}

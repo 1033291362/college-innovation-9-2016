@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl
+END
+SysRoleBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/SysRoleBizImpl.java
+END
+UserPicPathBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/UserPicPathBizImpl.java
+END
+UserCourseTableTimeBizlmpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TeachingFeedbackNew/!svn/ver/12/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/UserCourseTableTimeBizlmpl.java
+END
+SysUserBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/SysUserBizImpl.java
+END
+CourseTimeBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/CourseTimeBizImpl.java
+END
+CourseBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/CourseBizImpl.java
+END
+SysMenuBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/SysMenuBizImpl.java
+END
+SysRoleMenuBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/SysRoleMenuBizImpl.java
+END
+UserTeacherCourseBizImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/bizImpl/UserTeacherCourseBizImpl.java
+END

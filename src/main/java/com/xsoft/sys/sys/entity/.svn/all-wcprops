@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TeachingFeedbackNew/!svn/ver/17/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity
+END
+SysStudent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/SysStudent.java
+END
+SysMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/SysMenu.java
+END
+Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/Course.java
+END
+SysUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/SysUser.java
+END
+UserCourseTableTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TeachingFeedbackNew/!svn/ver/17/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/UserCourseTableTime.java
+END
+UserPicPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/UserPicPath.java
+END
+SysRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/SysRole.java
+END
+SysRoleMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/SysRoleMenu.java
+END
+UserTeacherCourse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/entity/UserTeacherCourse.java
+END

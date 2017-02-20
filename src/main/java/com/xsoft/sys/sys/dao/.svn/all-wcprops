@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao
+END
+SysRoleMenuDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/SysRoleMenuDao.java
+END
+SysRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/SysRoleDao.java
+END
+UserPicPathDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/UserPicPathDao.java
+END
+UserCourseTableTimeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TeachingFeedbackNew/!svn/ver/12/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/UserCourseTableTimeDao.java
+END
+CourseTimeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/CourseTimeDao.java
+END
+SysUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/SysUserDao.java
+END
+CourseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/CourseDao.java
+END
+SysMenuDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/SysMenuDao.java
+END
+TeacherCourseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/dao/TeacherCourseDao.java
+END

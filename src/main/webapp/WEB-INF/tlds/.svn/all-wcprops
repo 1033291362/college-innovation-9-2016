@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/tlds
+END
+xsoft.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/tlds/xsoft.tld
+END
+functions.tld
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/tlds/functions.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/tlds/fmt.tld
+END
+jstl.tld
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/tlds/jstl.tld
+END
+shiro.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/webapp/WEB-INF/tlds/shiro.tld
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl
+END
+SysRoleMenuDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/SysRoleMenuDaoImpl.java
+END
+SysRoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/SysRoleDaoImpl.java
+END
+UserPicPathDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/UserPicPathDaoImpl.java
+END
+SysUserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/SysUserDaoImpl.java
+END
+UserCourseTableTimeDaolmpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TeachingFeedbackNew/!svn/ver/12/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/UserCourseTableTimeDaolmpl.java
+END
+CourseTimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/CourseTimeImpl.java
+END
+CourseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/CourseDaoImpl.java
+END
+SysMenuDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TeachingFeedbackNew/!svn/ver/4/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/SysMenuDaoImpl.java
+END
+TeacherCourseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TeachingFeedbackNew/!svn/ver/13/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/TeacherCourseDaoImpl.java
+END
+SysStudentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TeachingFeedbackNew/!svn/ver/15/trunk/xuijee/src/main/java/com/xsoft/sys/sys/daoImpl/SysStudentDaoImpl.java
+END
